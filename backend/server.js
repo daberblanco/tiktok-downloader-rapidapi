@@ -11,7 +11,7 @@ app.use(express.json());
 //https://rapidapi.com/datauniverse/api/tiktok82/
 
 // Claves de la API de RapidAPI
-const key = 'f93cdad4e0msh7552725145ffdddp114ad7jsna7d3daf31ff5';
+const key = 'YOUR_RAPIDAPI_KEY';
 const host = 'tiktok82.p.rapidapi.com';
 
 // Endpoint para obtener información del usuario
